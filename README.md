@@ -1,8 +1,9 @@
 BevoTechPack
 ============
 
-This is the official repository for the Bevo Tech Pack. Feel free to leave suggestions and/or bug reports to help improve this pack.
+This is the update / fork of bevo tech pack done by digtobuild.com with approval from bevo.
 
+Bevo's approval: https://copy.com/HsGhHDrPOhkYfOh1
 
 **Bevo Tech Pack** - 
 Public 1.7.10 Mod Pack on AT Launcher
